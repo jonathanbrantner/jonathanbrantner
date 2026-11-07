@@ -2,8 +2,6 @@
 
 High school student interested in business, technology and investing. I experiment with code, and what interests me most is software and building companies around it. Cofounder of CustomWeb AI, VBar and FoolProof. Founder of CoreSpoke.
 
-Always learning.
-
 ## Companies
 
 <table>
