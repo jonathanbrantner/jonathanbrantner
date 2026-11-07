@@ -1,6 +1,6 @@
 <img src="assets/banner.png" alt="Jonathan Brantner" width="100%">
 
-High school student interested in business, technology and investing. I experiment with code, and what interests me most is software and building companies around it. Cofounder of CustomWeb AI, VBar and FoolProof. Founder of CoreSpoke.
+High school student interested in business, technology and investing. I experiment with code, and what interests me most is software and building companies around it. Cofounder of CustomWeb AI and VBar. Founder of CoreSpoke.
 
 ## Companies
 
@@ -16,10 +16,6 @@ High school student interested in business, technology and investing. I experime
   <tr>
     <td align="center"><a href="https://github.com/CoreSpoke"><img src="assets/corespoke.png" width="64" alt="CoreSpoke logo"></a></td>
     <td><a href="https://github.com/CoreSpoke"><b>CoreSpoke</b></a> (beta)<br>Developer tools under one roof: KeepAlive, Simplify API, LLM Router, Dispatch and Flows.</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><b>FoolProof</b><br>Predictable Bread: a guided German bread-baking app for iPhone and iPad.</td>
   </tr>
 </table>
 
