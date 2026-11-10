@@ -14,7 +14,7 @@ High school student interested in business, technology and investing. I experime
     <td><a href="https://github.com/VBar-fit"><b>VBar</b></a><br>A coaching app for fitness coaches, as a web app and an iPhone app.</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/CoreSpoke"><img src="assets/corespoke.png" width="64" alt="CoreSpoke logo"></a></td>
+    <td align="center"><a href="https://github.com/CoreSpoke"><img src="assets/corespoke-5-spokes.png" width="64" alt="CoreSpoke logo"></a></td>
     <td><a href="https://github.com/CoreSpoke"><b>CoreSpoke</b></a> (beta)<br>Developer tools under one roof: KeepAlive, Simplify API, LLM Router, Dispatch and Flows.</td>
   </tr>
 </table>
